@@ -1,0 +1,6 @@
+{
+  "name": "마케팅 메이트 (Marketing Mate)",
+  "description": "AI를 활용하여 상품이나 지역 축제의 효과적인 홍보 문구, SNS 콘텐츠, 타깃 고객 분석, 마케팅 전략을 제안해 주는 스마트 홍보 도우미입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
